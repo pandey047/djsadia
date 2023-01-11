@@ -9,7 +9,7 @@ djangorestframework==3.14.0
 filelock==3.8.0
 Pillow==9.3.0
 platformdirs==2.5.2
-psycopg2==2.9.5
+#psycopg2==2.9.5
 pycparser==2.21
 pytz==2022.2.1
 sqlparse==0.4.2
